@@ -4,8 +4,6 @@ This is an app that is for drawing on an Android. It allows users to draw/paint 
 
 I created this app to demonstrate the simple usage of an Android app. It was also to practice and grow my understanding of programming mobile apps. 
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
-
 [Drawing App Code](https://youtu.be/ANncW4GqezU)
 
 # Development Environment
